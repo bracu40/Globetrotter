@@ -1,7 +1,3 @@
-# Globetrotter
-
-📝 `NOTE` Use this template to initialize the contents of a README.md file for your application. As you work on your assignment over the course of the week, update the required or stretch features lists to indicate which features you have completed by changing `[ ]` to `[x]`. (🚫 Remove this paragraph before submitting your assignment.)
-
 ## Unit Assignment: Globetrotter
 
 Submitted by: **NAME**
@@ -87,27 +83,23 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`TODO://` Paste the **shareable link** to your animated app walkthrough below (replace `ADD_LOOM_LINK_HERE`). GitHub markdown won't render an embedded Loom player, so a plain link is what graders will use. Make sure the link is public and playable before submitting. (🚫 Remove this paragraph after adding your walkthrough link.)
-
-**Walkthrough video:** [Globetrotter Walkthrough](ADD_LOOM_LINK_HERE)
+**Walkthrough video:** [Globetrotter Walkthrough](https://www.loom.com/share/1c80883dca6a406d977dac09e185f6fd)
 
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+Yes, the labs helped me understand flexbox/grid more. I am still a little unclear on breakpoints using @media, but Claude helped me through it.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+If I had more time, I would have added Peruvian music or the anthem either as an embedded video or in the website.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+I felt relaxed during my demo. Something I forgot to say was my color scheme choice which was deliberate and related to Peru. Like I said, one of my peers embedded a video with their anthem in their website, so I would like to add music next time.
 
 ### Open-source libraries used
-
-- Add any links to open-source libraries used in your project.
 
 ### Shout out
 
