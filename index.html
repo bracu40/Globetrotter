@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visit Peru</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="hero-banner">
+            <img src="assets/Flag-Peru.png" alt="Peru Flag" class="flag-image">
+            <h1 class="hero-title">Visit Peru</h1>
+        </div>
+        
+        <nav class="main-nav">
+            <ul class="nav-links">
+              <li><a href="index.html">Home</a></li>
+              <li><a href="attractions.html">Top Attractions</a></li>
+              <li><a href="guide.html">Guide</a></li>
+              <li><a href="gallery.html">Gallery</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="map-section">
+        <h2>Explore Peru</h2>
+        <p class="map-subtitle">Welcome to Visit Peru, a beginner-friendly travel guide for first-time visitors ready to explore the country with confidence. 
+            Start with our Top Attractions to discover must-see destinations, continue to the Food & Drinks Guide to experience essential local flavors, 
+            and browse the Photo Gallery for visual inspiration as you plan your Peru itinerary.</p>
+      
+        <div class="map-card">
+          <iframe
+            class="map-embed"
+            src="https://maps.google.com/maps?hl=en&q=Peru&z=5&output=embed"
+            loading="lazy"
+            allowfullscreen
+            referrerpolicy="no-referrer-when-downgrade"
+            title="Map of Peru">
+          </iframe>
+        </div>
+      </section>
+
+      <section class="newsletter-section">
+        <form class="newsletter-form">
+          <h2>Get Peru Travel Updates</h2>
+          <p class="form-intro">
+            Please input your information to sign up for our free travel newsletter to Peru.
+          </p>
+      
+          <div class="form-field">
+          <label for="first-name">First Name</label>
+          <input type="text" id="first-name" name="first-name" required>
+          </div>
+      
+          <div class="form-field">
+          <label for="last-name">Last Name</label>
+          <input type="text" id="last-name" name="last-name" required>
+          </div>
+          
+          <div class="form-field">
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" required>
+        </div>
+      
+          <button type="submit">Subscribe</button>
+        </form>
+      </section>
+   
+</body>
+</html>
